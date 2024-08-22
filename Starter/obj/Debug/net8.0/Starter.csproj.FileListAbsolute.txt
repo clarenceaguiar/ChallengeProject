@@ -1,0 +1,14 @@
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Cursos\Cursos TI\Microsoft Learn\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll
